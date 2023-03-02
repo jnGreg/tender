@@ -39,8 +39,8 @@ A quick search by voivodeship map has been added.
 
 ## Diagrams (polish)
 
-# MODEL KONCEPTUALNY W JĘZYKU ARCHIMATE
-
+# 
+![MODEL KONCEPTUALNY W JĘZYKU ARCHIMATE](https://github.com/jnGreg/tender/blob/main/diagrams/archimate.png)
 # MODEL PROCESÓW BIZNESOWYCH W NOTACJI BPMN
 
 # 1. Diagram procesu „Wystawianie”

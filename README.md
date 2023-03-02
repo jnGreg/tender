@@ -39,32 +39,49 @@ A quick search by voivodeship map has been added.
 
 ## Diagrams (polish)
 
-# 
-![MODEL KONCEPTUALNY W JĘZYKU ARCHIMATE](https://github.com/jnGreg/tender/blob/main/diagrams/archimate.png)
-# MODEL PROCESÓW BIZNESOWYCH W NOTACJI BPMN
+# MODEL KONCEPTUALNY W JĘZYKU ARCHIMATE
+![](https://github.com/jnGreg/tender/blob/main/diagrams/archimate.png)
 
+# MODEL PROCESÓW BIZNESOWYCH W NOTACJI BPMN
 # 1. Diagram procesu „Wystawianie”
+![](https://github.com/jnGreg/tender/blob/main/diagrams/wystawianie.png)
 # 2. Diagram procesu „Aukcja”
+![](https://github.com/jnGreg/tender/blob/main/diagrams/aukcja.png)
 # 3. Diagram podprocesu „Wyszukiwanie”
+![](https://github.com/jnGreg/tender/blob/main/diagrams/wyszukiwanie.png)
 # 4. Diagram procesu „Realizacja umowy handlowej, zwrotu i reklamacji”
+![](https://github.com/jnGreg/tender/blob/main/diagrams/umowa.png)
 
 # MODEL PRZYPADKÓW BIZNESOWYCH W NOTACJI CMMN
+![](https://github.com/jnGreg/tender/blob/main/diagrams/camunda.png)
 
 # DIAGRAMY PRZEPŁYWU DANYCH
-
 # 1. Kontekstowy
+![](https://github.com/jnGreg/tender/blob/main/diagrams/kontekstowy.png)
 # 2. Poziom 0
+![](https://github.com/jnGreg/tender/blob/main/diagrams/0.png)
 # 3. Poziom 1
+![](https://github.com/jnGreg/tender/blob/main/diagrams/1.png)
 
 # MAPOWANIE WYMAGAŃ BIZNESOWYCH
+![](https://github.com/jnGreg/tender/blob/main/diagrams/Mapowanie_wymagan.png)
 
 # DIAGRAMY UML W VISUAL PARADIGM
 
 # 1. Analiza tekstowa
 # 1.1. Część opisowa
+![](https://github.com/jnGreg/tender/blob/main/diagrams/Textual.png)
 # 1.2. Tabela
+![](https://github.com/jnGreg/tender/blob/main/diagrams/Textual_Actors.png)
+![](https://github.com/jnGreg/tender/blob/main/diagrams/Textual_Use_Cases.png)
+![](https://github.com/jnGreg/tender/blob/main/diagrams/Textual_Requirements.png)
 # 2. Wymagań
+![](https://github.com/jnGreg/tender/blob/main/diagrams/Requirements.png)
 # 3. Przypadków użycia
+![](https://github.com/jnGreg/tender/blob/main/diagrams/Textual_Use_Cases.png)
 # 4. Klas
+![](https://github.com/jnGreg/tender/blob/main/diagrams/Classes.png)
 # 5. Aktywności dla składania ofert 
+![](https://github.com/jnGreg/tender/blob/main/diagrams/Activity.png)
 # 6. Sekwencji dla licytowania
+![](https://github.com/jnGreg/tender/blob/main/diagrams/Sequence.png)

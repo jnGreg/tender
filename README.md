@@ -64,7 +64,7 @@ A quick search by voivodeship map has been added.
 ![](https://github.com/jnGreg/tender/blob/main/diagrams/1.png)
 
 # MAPOWANIE WYMAGAŃ BIZNESOWYCH
-![](https://github.com/jnGreg/tender/blob/main/diagrams/Mapowanie_wymagan.png)
+![](https://github.com/jnGreg/tender/blob/main/diagrams/Mapowanie_wymagan.jpg)
 
 # DIAGRAMY UML W VISUAL PARADIGM
 
@@ -72,13 +72,13 @@ A quick search by voivodeship map has been added.
 # 1.1. Część opisowa
 ![](https://github.com/jnGreg/tender/blob/main/diagrams/Textual.png)
 # 1.2. Tabela
-![](https://github.com/jnGreg/tender/blob/main/diagrams/Textual_Actors.png)
-![](https://github.com/jnGreg/tender/blob/main/diagrams/Textual_Use_Cases.png)
-![](https://github.com/jnGreg/tender/blob/main/diagrams/Textual_Requirements.png)
+![](https://github.com/jnGreg/tender/blob/main/diagrams/Textual_Actors.PNG)
+![](https://github.com/jnGreg/tender/blob/main/diagrams/Textual_Use_Cases.PNG)
+![](https://github.com/jnGreg/tender/blob/main/diagrams/Textual_Requirements.PNG)
 # 2. Wymagań
 ![](https://github.com/jnGreg/tender/blob/main/diagrams/Requirements.png)
 # 3. Przypadków użycia
-![](https://github.com/jnGreg/tender/blob/main/diagrams/Textual_Use_Cases.png)
+![](https://github.com/jnGreg/tender/blob/main/diagrams/Use_Case.png)
 # 4. Klas
 ![](https://github.com/jnGreg/tender/blob/main/diagrams/Classes.png)
 # 5. Aktywności dla składania ofert 

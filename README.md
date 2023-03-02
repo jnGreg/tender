@@ -70,7 +70,7 @@ A quick search by voivodeship map has been added.
 
 # 1. Analiza tekstowa
 # 1.1. Część opisowa
-![](https://github.com/jnGreg/tender/blob/main/diagrams/Textual.png)
+![](https://github.com/jnGreg/tender/blob/main/diagrams/Textual.PNG)
 # 1.2. Tabela
 ![](https://github.com/jnGreg/tender/blob/main/diagrams/Textual_Actors.PNG)
 ![](https://github.com/jnGreg/tender/blob/main/diagrams/Textual_Use_Cases.PNG)
